@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.32316655.css",
-    "main.js": "/react-gh-pages/static/js/main.dd8c654f.js",
-    "static/media/PintuGTD FAQ.png": "/react-gh-pages/static/media/PintuGTD FAQ.e53c0f5b03761f81b5b2.png",
-    "static/media/NTU_Logo.png": "/react-gh-pages/static/media/NTU_Logo.9fa11829faa7ad62f614.png",
-    "static/media/lizardpngpng.png": "/react-gh-pages/static/media/lizardpngpng.13eef6e18b2f8bb82bcb.png",
-    "static/media/W95FA.otf": "/react-gh-pages/static/media/W95FA.ad7cea682bb510ac5f4a.otf",
-    "static/media/PINTU.png": "/react-gh-pages/static/media/PINTU.5dcd63a1579aa0d20822.png",
-    "static/media/EEEclub nobg.png": "/react-gh-pages/static/media/EEEclub nobg.08c4222adb0e261ace2b.png",
-    "static/media/smanu-mht.jpg": "/react-gh-pages/static/media/smanu-mht.278ff89e05ee4ade1a0d.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.32316655.css.map": "/react-gh-pages/static/css/main.32316655.css.map",
-    "main.dd8c654f.js.map": "/react-gh-pages/static/js/main.dd8c654f.js.map"
+    "main.css": "/gh-pages/static/css/main.2a1d6313.css",
+    "main.js": "/gh-pages/static/js/main.1df2ef73.js",
+    "static/media/PintuGTD FAQ.png": "/gh-pages/static/media/PintuGTD FAQ.e53c0f5b03761f81b5b2.png",
+    "static/media/NTU_Logo.png": "/gh-pages/static/media/NTU_Logo.9fa11829faa7ad62f614.png",
+    "static/media/lizardpngpng.png": "/gh-pages/static/media/lizardpngpng.13eef6e18b2f8bb82bcb.png",
+    "static/media/W95FA.otf": "/gh-pages/static/media/W95FA.ad7cea682bb510ac5f4a.otf",
+    "static/media/PINTU.png": "/gh-pages/static/media/PINTU.5dcd63a1579aa0d20822.png",
+    "static/media/EEEclub nobg.png": "/gh-pages/static/media/EEEclub nobg.08c4222adb0e261ace2b.png",
+    "static/media/smanu-mht.jpg": "/gh-pages/static/media/smanu-mht.278ff89e05ee4ade1a0d.jpg",
+    "index.html": "/gh-pages/index.html",
+    "main.2a1d6313.css.map": "/gh-pages/static/css/main.2a1d6313.css.map",
+    "main.1df2ef73.js.map": "/gh-pages/static/js/main.1df2ef73.js.map"
   },
   "entrypoints": [
-    "static/css/main.32316655.css",
-    "static/js/main.dd8c654f.js"
+    "static/css/main.2a1d6313.css",
+    "static/js/main.1df2ef73.js"
   ]
 }
