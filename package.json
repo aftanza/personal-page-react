@@ -1,8 +1,8 @@
 {
+  "homepage": "https://aftanza.github.io/personal-page-react",
   "name": "personal-page-react",
   "version": "0.1.0",
-  "homepage": "https://aftanza.github.io/",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -24,6 +24,7 @@
     "extends": [
       "react-app",
       "react-app/jest"
+
     ]
   },
   "browserslist": {
